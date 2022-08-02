@@ -6,6 +6,8 @@ This file contains only one third of the final project
 The question:
 How does Inflation affect Minmum Wage and Grocery Prices.
 
+# 2005-2021
+
 The first graph we are going to look at shows average prices of commomon groceries and the average minimum wage from 2005 to 2021:
 ![AveGrocery](https://user-images.githubusercontent.com/100164773/182153351-dd3e72b7-4ebc-471c-85ae-c54b9c95d055.png)
 
@@ -23,6 +25,8 @@ Next we are going to look at the correlation values between the consumer price i
 
 We fingd strong correlations in some categories in some but not all like beef, bread, and minimum wage. While the other categories, milk and eggs, have next to zero correlation to the consumer price index.
 
+# Data for the first half of 2022
+
 Then we compared these correlation values between the average grocery prices and the average consumer price index in the first half of 2022:
 
 ![Beef2022](https://user-images.githubusercontent.com/100164773/182163411-00160b98-7d39-422c-a90c-017970c98dfb.png)
@@ -33,4 +37,10 @@ Then we compared these correlation values between the average grocery prices and
 
 ![Milk2022](https://user-images.githubusercontent.com/100164773/182163522-58112ea0-b8b2-4085-bf76-f236f19a9ff7.png)
 
-We see strong correlation numbers for all our basic groceries for the first half of 2022. While we can draw the inflation can cause rise in the price of beef and bread we cannot say the same for milk and eggs. There must be other factors causing the rise of prices.
+We see strong correlation numbers for all our basic groceries for the first half of 2022. This is a direct contradiction to 2005-2021.
+
+# Final Conclusion
+
+1. While there are strong correlations between some food prices and CPI there are inconsistancies that lead us to conclude that there are more factors to consider.
+
+2. The correlation value of .98 between minimum wage and CPI means that when the CPI goes minimum wage will be forced to follow.
