@@ -28,19 +28,17 @@ Comparing inflation based on location
 * historicalcpi_74_to_present.xlsx - https://www.bls.gov/cpi/data.htm 
 * inflation_data.csv - https://www.bls.gov/cpi/data.htm l
 * Mrtssales92-present.xlsx - https://www.census.gov/retail/index.html
-* MinWage.csv-https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
+* MinWage.csv-https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017 (1968-2020)
 * EPI Data Library - Minimum wage.csv - https://www.epi.org/data/ 
 * EPI Data Library - Median average hourly wages.csv - https://www.epi.org/data/
 
 ## Rough Breakdown of Tasks
-1. How are grocery prices and minimum wages related over time due to inflation? 
-John McMullan, Colleen Kearns, Miranda Hermes
+We broke the questions below into 3 groups within our team. Please see the names of those that contributed along with the jupyter notebooks that show the work.
 
-2. How does inflation affect purchasing habits
-Fannie Polcari, Juhita Vijjali, Marjorie Munoz
-
-3. Comparing inflation based gas prices
-Angele Gueupi, Bob Pickerel, Vante Gant, Subodh
+1. How are grocery prices and minimum wages related over time due to inflation? <br /> Teammates: John McMullan, Colleen Kearns, Miranda Hermes <br /> Notebook: **"Question-1MinimumWageGrocery/Grocery_Inflation_Project.ipynb" &  "API pulls.ipynb"**
+2. How does inflation affect purchasing habits? <br /> Teammates: Fannie Polcari, Juhita Vijjali, Marjorie Munoz <br /> Notebook: **"fannie notebook.ipynb"**
+3. Comparing inflation based gas prices? <br /> Teammates: Angele Gueupi, Bob Pickerel, Vante Gant, Subodh <br /> **"Project1-GasPricesVsInflation.ipynb"**
 
 
-Presentation - whole team
+## Presentation 
+whole team
