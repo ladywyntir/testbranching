@@ -1,0 +1,66 @@
+﻿,Expenditure category,"Relative
+importance
+Dec.
+2011","Jan.
+2011","Dec.
+2011","Jan.
+2012","Jan.
+2011-
+Jan.
+2012","Dec.
+2011-
+Jan.
+2012","Oct.
+2011-
+Nov.
+2011","Nov.
+2011-
+Dec.
+2011","Dec.
+2011-
+Jan.
+2012"
+0,All items,,220.223,225.672,226.665,2.9,0.4,0.1,0.0,0.2
+1,Food,,222.912,231.301,232.666,4.4,0.6,0.1,0.2,0.2
+2,Food at home,,220.016,229.982,231.694,5.3,0.7,0.0,0.2,0.0
+3,Cereals and bakery products,,253.349,265.997,266.677,5.3,0.3,0.3,0.3,-0.1
+3,"Meats, poultry, fish, and eggs",,214.344,228.853,229.809,7.2,0.4,0.1,0.6,0.2
+3,Dairy and related products(1),,202.349,218.458,220.492,9.0,0.9,-0.3,-0.1,0.9
+3,Fruits and vegetables,,285.619,283.550,285.437,-0.1,0.7,-0.5,-0.5,-1.3
+3,Nonalcoholic beverages and beverage materials,,164.019,168.520,170.454,3.9,1.1,0.3,0.2,-0.3
+3,Other food at home,,191.468,200.566,202.756,5.9,1.1,0.0,0.4,0.5
+2,Food away from home(1),,228.181,234.435,235.268,3.1,0.4,0.3,0.2,0.4
+1,Energy,,223.266,232.300,236.942,6.1,2.0,-0.5,-1.3,0.2
+2,Energy commodities,,269.970,287.363,296.886,10.0,3.3,-0.6,-2.0,0.9
+3,Fuel oil(1),,333.993,369.085,374.377,12.1,1.4,2.7,-1.0,1.4
+3,Motor fuel,,265.703,282.501,292.236,10.0,3.4,-0.8,-2.1,0.8
+4,Gasoline (all types),,264.979,280.713,290.762,9.7,3.6,-0.9,-2.1,0.9
+2,Energy services(2),,189.088,189.891,189.942,0.5,0.0,-0.4,-0.2,-0.8
+3,Electricity(2),,189.166,192.777,193.612,2.4,0.4,0.2,-0.1,0.0
+3,Utility (piped) gas service(2),,186.351,178.193,176.044,-5.5,-1.2,-2.6,-0.6,-2.9
+1,All items less food and energy,,222.177,226.740,227.237,2.3,0.2,0.2,0.1,0.2
+2,Commodities less food and energy commodities,,142.845,145.929,145.963,2.2,0.0,0.1,-0.1,0.2
+3,Apparel,,116.664,123.470,122.105,4.7,-1.1,0.5,-0.1,0.9
+3,New vehicles,,138.925,142.953,143.438,3.2,0.3,-0.2,-0.2,0.0
+3,Used cars and trucks,,142.555,148.140,147.143,3.2,-0.7,-0.4,-0.7,-1.0
+3,Medical care commodities(1),,318.929,327.254,329.201,3.2,0.6,0.2,0.2,0.6
+3,Alcoholic beverages,,224.975,227.335,229.704,2.1,1.0,0.1,0.2,0.8
+3,Tobacco and smoking products(1),,828.079,847.063,851.016,2.8,0.5,0.1,0.4,0.5
+2,Services less energy services,,270.199,275.643,276.432,2.3,0.3,0.2,0.2,0.2
+3,Shelter,,249.462,253.716,254.409,2.0,0.3,0.2,0.2,0.2
+4,Rent of primary residence(2),,251.555,257.189,257.714,2.4,0.2,0.2,0.2,0.2
+4,Owners' equivalent rent of residences(2)(3),,257.775,261.982,262.543,1.8,0.2,0.2,0.2,0.2
+3,Medical care services,,417.025,430.005,432.583,3.7,0.6,0.4,0.4,0.2
+4,Physicians' services(2),,335.625,342.966,343.657,2.4,0.2,0.2,0.2,-0.1
+4,Hospital services(2)(4),,234.791,246.377,248.410,5.8,0.8,0.5,0.4,0.3
+3,Transportation services,,263.984,269.858,269.438,2.1,-0.2,0.0,0.1,0.0
+4,Motor vehicle maintenance and repair(1),,250.726,255.644,256.405,2.3,0.3,0.0,0.0,0.3
+4,Motor vehicle insurance,,383.966,396.193,395.974,3.1,-0.1,0.3,0.2,0.1
+4,Airline fare,,290.243,299.315,295.429,1.8,-1.3,0.0,-0.1,-0.9
+,,,,,,,,,,
+,Footnotes:,,,,,,,,,
+,(1) Not seasonally adjusted.,,,,,,,,,
+,(2) This index series was calculated using a Laspeyres estimator.  All other item stratum index series were calculated using a geometric means estimator.,,,,,,,,,
+,(3) Indexes on a December 1982=100 base.,,,,,,,,,
+,(4) Indexes on a December 1996=100 base.,,,,,,,,,
+,"NOTE: Index applies to a month as a whole, not to any specific date.",,,,,,,,,
